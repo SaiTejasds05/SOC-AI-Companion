@@ -1,0 +1,3 @@
+A Security Operations Center (SOC) monitors and analyzes an organization's security posture.
+SIEM systems collect, analyze, and correlate security event data from various sources.
+Incident response involves containment, eradication, and recovery steps.
